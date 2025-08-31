@@ -1,5 +1,5 @@
 # Compliance-App-Scripts
-This repository contain C# scripts that were designed to support an experiment conducted to identify compliance of participant to exercise using visual-text Prompt.
+This repository contain C# scripts designed to support an experiment conducted to identify perceived compliance drivers in a  Virtual Reality Context.
 
 # Scripting Overview
 An object oriented scripting methodology was adopted, hence each function is named to represent the specific operation or computational task it performs.To ensure logical organisation, similar functions were grouped within major script files, with each file dedicated to a distinct aspect of the workflow.
