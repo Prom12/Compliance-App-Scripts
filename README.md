@@ -18,6 +18,6 @@ NB: All exercise prompts contained an exit option.
 
 # Main Scripts and Functionalities
 ## GeneralMainSceneUI
-This activate and toggle between the room and gym environments.
+This script allows participants to toggle between the room and gym environments.
 
 ----  This Page is under development -----
